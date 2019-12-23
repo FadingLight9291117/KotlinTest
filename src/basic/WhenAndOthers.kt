@@ -1,3 +1,5 @@
+package basic
+
 fun main(args: Array<String>) {
     // "when" is same as "switch"
     val day = Day.MON

@@ -1,4 +1,4 @@
-import kotlin.test.todo
+package basic
 
 fun main(args: Array<String>) {
     val day: Day = Day.MON

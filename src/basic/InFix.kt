@@ -1,3 +1,5 @@
+package basic
+
 // 定义一个中缀表达式，并使用
 fun main(args: Array<String>) {
 
