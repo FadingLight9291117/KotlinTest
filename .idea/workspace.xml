@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ab30c3-27c7-44d8-9442-98bba5ee789e" name="Default Changelist" comment="" />
+    <list default="true" id="26ab30c3-27c7-44d8-9442-98bba5ee789e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Enum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InFix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhenAndOthers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlineTest/META-INF/KotlineTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlineTest/META-INF/KotlineTest.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,15 +40,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Kotlin.CurryingKt">
+  <component name="RunManager" selected="Kotlin.InFixKt">
     <configuration name="CurryingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlineTest" />
       <option name="VM_PARAMETERS" />
@@ -50,6 +58,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="CurryingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="EnumKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InFixKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="InFixKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +102,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhenAndOthersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WhenAndOthersKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InFixKt" />
+        <item itemvalue="Kotlin.WhenAndOthersKt" />
+        <item itemvalue="Kotlin.EnumKt" />
         <item itemvalue="Kotlin.CurryingKt" />
         <item itemvalue="Kotlin.LambdaKt" />
       </list>
@@ -87,33 +137,59 @@
       </list>
     </option>
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ab30c3-27c7-44d8-9442-98bba5ee789e" name="Default Changelist" comment="" />
+      <created>1577091320791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577091320791</updated>
+      <workItem from="1577091340193" duration="134000" />
+      <workItem from="1577091529577" duration="7144000" />
+    </task>
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1312" height="145" key="GridCell.Tab.0.bottom" timestamp="1577090188744">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="521" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577091627862">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="521" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1577091627862" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1577099783176">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577099783176" />
     <state width="1312" height="145" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
-    <state width="1312" height="145" key="GridCell.Tab.0.center" timestamp="1577090188744">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1577099783176">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577099783176" />
     <state width="1312" height="145" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
-    <state width="1312" height="145" key="GridCell.Tab.0.left" timestamp="1577090188743">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1577099783176">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577099783176" />
     <state width="1312" height="145" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577090188743" />
-    <state width="1312" height="145" key="GridCell.Tab.0.right" timestamp="1577090188744">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1577099783176">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577099783176" />
     <state width="1312" height="145" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
-    <state x="164" y="31" width="1037" height="737" key="SettingsEditor" timestamp="1577090455269">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="93" y="23" width="1037" height="737" key="SettingsEditor" timestamp="1577099060985">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="93" y="23" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1577099060985" />
     <state x="164" y="31" width="1037" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577090455269" />
-    <state x="331" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577090096477">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="438" y="213" key="cloudConfig.SelfSettingsDialog" timestamp="1577093627108">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="438" y="213" key="cloudConfig.SelfSettingsDialog/0.0.1366.738@0.0.1366.738" timestamp="1577093627108" />
+    <state x="331" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1577091597924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="331" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1577091597924" />
     <state x="331" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1577090096477" />
     <state x="347" y="173" key="run.anything.popup" timestamp="1575431527837">
       <screen x="0" y="27" width="1366" height="741" />
