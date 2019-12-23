@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26ab30c3-27c7-44d8-9442-98bba5ee789e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UTeeOAjt8knxRx78Ck4Ibd6nfq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Kotlin.CurryingKt">
+    <configuration name="CurryingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CurryingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.CurryingKt" />
+        <item itemvalue="Kotlin.LambdaKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1312" height="145" key="GridCell.Tab.0.bottom" timestamp="1577090188744">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="145" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
+    <state width="1312" height="145" key="GridCell.Tab.0.center" timestamp="1577090188744">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="145" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
+    <state width="1312" height="145" key="GridCell.Tab.0.left" timestamp="1577090188743">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="145" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577090188743" />
+    <state width="1312" height="145" key="GridCell.Tab.0.right" timestamp="1577090188744">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="145" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
+    <state x="164" y="31" width="1037" height="737" key="SettingsEditor" timestamp="1577090455269">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="164" y="31" width="1037" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577090455269" />
+    <state x="331" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577090096477">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="331" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1577090096477" />
+    <state x="347" y="173" key="run.anything.popup" timestamp="1575431527837">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="173" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1575431527837" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577084901453">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1577084901453" />
+  </component>
+</project>
