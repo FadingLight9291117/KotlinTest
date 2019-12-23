@@ -1,11 +1,8 @@
 package oop
 
+import java.time.LocalDateTime
 
-fun main(args: Array<String>) {
-    var bird = Bird()
-    var cat = Cat(10.0, 3)
 
-}
 
 class Bird {
     val weight: Double = 500.0
@@ -47,4 +44,22 @@ class Bird2(val weight: Double, val age: Int, val color: String) {
         this.sex = if (this.color == "yellow") "male" else "female"
         println(this.sex)
     }
+}
+
+// 主从构造方法
+class Pig(age: Int) {
+    val age: Int
+    init {
+        this.age = age
+    }
+    // 从构造方法
+    constructor(birth: LocalDateTime) : this(LocalDateTime.now().year - birth.year)
+}
+
+fun main(args: Array<String>) {
+    var bird = Bird()
+    var cat = Cat(10.0, 3)
+    val date = LocalDateTime.of(2008, 1, 12, 12, 23)
+    val pig = Pig(date)
+    println(pig.age)
 }
