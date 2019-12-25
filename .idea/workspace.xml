@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ab30c3-27c7-44d8-9442-98bba5ee789e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/AccessControlRule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adt/adt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/DataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Delegate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/InnerClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/MutiInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Object.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlineTest/META-INF/KotlineTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlineTest/META-INF/KotlineTest.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Class.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/AccessControlRule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/AccessControlRule.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,46 +57,7 @@
       <recent name="C:\Users\Fadin\IdeaProjects\KotlinTest\src\Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.oop.AccessControlRuleKt">
-    <configuration name="basic.InFixKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlineTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basic.InFixKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic.StringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlineTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basic.StringKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic.WhenAndOthersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlineTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basic.WhenAndOthersKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.oop.ObjectKt">
     <configuration name="oop.AccessControlRuleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlineTest" />
       <option name="VM_PARAMETERS" />
@@ -105,14 +71,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.ClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="oop.DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlineTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oop.ClassKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.DataClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.DelegateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oop.DelegateKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.InnerClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oop.InnerClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.ObjectKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oop.ObjectKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.oop.ObjectKt" />
+        <item itemvalue="Kotlin.oop.DataClassKt" />
+        <item itemvalue="Kotlin.oop.DelegateKt" />
+        <item itemvalue="Kotlin.oop.InnerClassKt" />
         <item itemvalue="Kotlin.oop.AccessControlRuleKt" />
-        <item itemvalue="Kotlin.oop.ClassKt" />
-        <item itemvalue="Kotlin.basic.StringKt" />
-        <item itemvalue="Kotlin.basic.InFixKt" />
-        <item itemvalue="Kotlin.basic.WhenAndOthersKt" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577091320791</updated>
       <workItem from="1577091340193" duration="134000" />
-      <workItem from="1577091529577" duration="18407000" />
+      <workItem from="1577091529577" duration="22135000" />
+      <workItem from="1577154357583" duration="17394000" />
     </task>
     <servers />
   </component>
@@ -156,29 +162,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="457" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1577116309847">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="457" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1577116309847" />
     <state x="521" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577091627862">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="521" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1577091627862" />
-    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1577113124802">
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1577202318779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577113124802" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577202318779" />
     <state width="1312" height="145" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
-    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1577113124802">
+    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1577202318779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577113124802" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577202318779" />
     <state width="1312" height="145" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
-    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1577113124802">
+    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1577202318779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577113124802" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577202318779" />
     <state width="1312" height="145" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577090188743" />
-    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1577113124802">
+    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1577202318779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577113124802" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577202318779" />
     <state width="1312" height="145" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577090188744" />
     <state x="93" y="23" width="1037" height="737" key="SettingsEditor" timestamp="1577099060985">
       <screen x="0" y="0" width="1366" height="738" />
@@ -189,19 +199,20 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="213" key="cloudConfig.SelfSettingsDialog/0.0.1366.738@0.0.1366.738" timestamp="1577093627108" />
-    <state x="331" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1577091597924">
+    <state x="331" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1577253003294">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="331" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1577091597924" />
+    <state x="331" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1577253003294" />
     <state x="331" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1577090096477" />
-    <state x="347" y="173" key="run.anything.popup" timestamp="1575431527837">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="347" y="173" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1575431527837" />
-    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup" timestamp="1577112948460">
+    <state x="347" y="145" key="run.anything.popup" timestamp="1577198591187">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1577112948460" />
+    <state x="347" y="145" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1577198591187" />
+    <state x="347" y="173" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1575431527837" />
+    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup" timestamp="1577165791243">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1577165791243" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1577084901453" />
   </component>
 </project>
