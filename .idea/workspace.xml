@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ab30c3-27c7-44d8-9442-98bba5ee789e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismAndExtension/ExtensionFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lambdaAndCollection/Sequence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaAndCollection/Sequence.kt" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <recent name="C:\Users\Fadin\IdeaProjects\KotlinTest\src\Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.lambdaAndCollection.SequenceKt">
+  <component name="RunManager" selected="Kotlin.polymorphismAndExtension.ExtensionFunctionKt">
     <configuration name="classsystem.GenericKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlineTest" />
       <option name="VM_PARAMETERS" />
@@ -97,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlineTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oop.DataClassKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="oop.ObjectKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlineTest" />
       <option name="VM_PARAMETERS" />
@@ -123,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="polymorphismAndExtension.ExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlineTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="polymorphismAndExtension.ExtensionFunctionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.polymorphismAndExtension.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.lambdaAndCollection.SequenceKt" />
         <item itemvalue="Kotlin.classsystem.GenericKt" />
         <item itemvalue="Kotlin.classsystem.NullableKt" />
         <item itemvalue="Kotlin.oop.ObjectKt" />
-        <item itemvalue="Kotlin.oop.DataClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -187,25 +187,25 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1578041242820" />
-    <state width="1312" height="145" key="GridCell.Tab.0.bottom" timestamp="1578041699642">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1578209458073">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578037931971" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578209458073" />
     <state width="1312" height="145" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578041699642" />
-    <state width="1312" height="145" key="GridCell.Tab.0.center" timestamp="1578041699641">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1578209458073">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578037931971" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578209458073" />
     <state width="1312" height="145" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578041699641" />
-    <state width="1312" height="145" key="GridCell.Tab.0.left" timestamp="1578041699640">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1578209458073">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578037931971" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578209458073" />
     <state width="1312" height="145" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578041699640" />
-    <state width="1312" height="145" key="GridCell.Tab.0.right" timestamp="1578041699642">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1578209458073">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578037931971" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578209458073" />
     <state width="1312" height="145" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578041699642" />
     <state x="164" y="31" width="1037" height="737" key="SettingsEditor" timestamp="1578041392838">
       <screen x="0" y="27" width="1366" height="741" />
@@ -216,20 +216,20 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="213" key="cloudConfig.SelfSettingsDialog/0.0.1366.738@0.0.1366.738" timestamp="1577093627108" />
-    <state x="331" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578041568731">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="331" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1578201017377">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="331" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1578037534173" />
+    <state x="331" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1578201017377" />
     <state x="331" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578041568731" />
     <state x="347" y="145" key="run.anything.popup" timestamp="1577950143487">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="347" y="145" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1577950143487" />
     <state x="347" y="173" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1575431527837" />
-    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup" timestamp="1577370204313">
+    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup" timestamp="1578203832155">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1577370204313" />
+    <state x="346" y="62" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1578203832155" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1577084901453" />
   </component>
 </project>

@@ -7,9 +7,8 @@ fun main(args: Array<String>) {
     val list2 = list.asSequence().filter { it > 4 }.map { it*it }.toList()
     println(list2)
 
-    //
+    // 无限序列
     val natureNumList = generateSequence(0) { it + 1 }
     val list3 = natureNumList.takeWhile { it <= 9 }.toList()
     println(list3)
-
 }
